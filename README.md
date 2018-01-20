@@ -21,3 +21,5 @@ Add a new account (type "Zcash").
 **Use anyting as password**  
 `blubb ` (example)
 
+#
+based on https://github.com/Jacubeit/Ethereum-MoneyMoney
