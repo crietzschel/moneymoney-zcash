@@ -9,7 +9,7 @@ You can get a signed version of this extension from the [MoneyMoney Extensions](
 
 Once downloaded, move `Zcash.lua` to your MoneyMoney Extensions folder.
 
-**Note:** This extension requires MoneyMoney **Version 2.3.5** or newer.
+**Note:** This extension requires MoneyMoney **Version 2.3.4** or newer.
 
 
 ## MoneyMoney
